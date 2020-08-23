@@ -16,7 +16,7 @@ The results of our analysis, as presented in our Pyber Summary below, show the f
 
 Pyber Summary:
 
-![](analysis/Pyber_Summary.PNG)
+![](analysis/Pyber_Summary.png)
 
 Our line chart provides a good visual representation of the total fares by city type for a subsegment of our data - it only looks at data collected from January 1, 2019 through April 29, 2019. In general, it appears as though there are small spikes and drops in the total fares that each city type generates, though each city type has fares that are relatively stable during this 4 month period.
 
